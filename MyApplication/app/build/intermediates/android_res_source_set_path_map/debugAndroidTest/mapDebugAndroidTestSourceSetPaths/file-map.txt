@@ -1,0 +1,7 @@
+com.example.myapplication.test.app-tracing-1.2.0-0 C:\Users\andre\.gradle\caches\9.1.0\transforms\902ba6b24a073355f9587e4131bec013\workspace\transformed\tracing-1.2.0\res
+com.example.myapplication.test.app-core-1.7.0-1 C:\Users\andre\.gradle\caches\9.1.0\transforms\cee638cee3451deb7cd6098d3c0dc184\workspace\transformed\core-1.7.0\res
+com.example.myapplication.test.app-androidTest-2 C:\Users\andre\Desktop\MyApplication\app\build\generated\res\resValues\androidTest\debug
+com.example.myapplication.test.app-updated_navigation_xml-3 C:\Users\andre\Desktop\MyApplication\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.myapplication.test.app-mergeDebugAndroidTestResources-4 C:\Users\andre\Desktop\MyApplication\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.myapplication.test.app-mergeDebugAndroidTestResources-5 C:\Users\andre\Desktop\MyApplication\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.myapplication.test.app-debugAndroidTest-6 C:\Users\andre\Desktop\MyApplication\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
