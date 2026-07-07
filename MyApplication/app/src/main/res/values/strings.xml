@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Бронирование столика</string>
+    <string name="list_title">Рестораны Уфы</string>
+    <string name="list_subtitle">Выберите ресторан, чтобы открыть схему зала и посмотреть доступные столики на нужную дату.</string>
+    <string name="restaurant_card_details">%1$s • %2$s</string>
+    <string name="back_button">Назад</string>
+    <string name="hall_subtitle_template">%1$s</string>
+    <string name="date_label">Дата</string>
+    <string name="date_hint">нажмите</string>
+    <string name="hall_scheme_title">Схема зала</string>
+    <string name="legend_available">Свободен</string>
+    <string name="legend_busy">Занят</string>
+    <string name="entrance_label">Главный вход</string>
+    <string name="kitchen_label">Кухня</string>
+    <string name="restroom_label">Туалет</string>
+    <string name="dialog_phone_label">Номер телефона</string>
+    <string name="dialog_phone_hint">+7 123 456-78-90</string>
+    <string name="toast_pick_phone">Введите номер телефона</string>
+
+    <plurals name="tables_count">
+        <item quantity="one">%1$d столик</item>
+        <item quantity="few">%1$d столика</item>
+        <item quantity="many">%1$d столиков</item>
+        <item quantity="other">%1$d столика</item>
+    </plurals>
+
+    <plurals name="guests_count">
+        <item quantity="one">%1$d гость</item>
+        <item quantity="few">%1$d гостя</item>
+        <item quantity="many">%1$d гостей</item>
+        <item quantity="other">%1$d гостя</item>
+    </plurals>
+
+    <string name="dialog_available_slots">Свободные интервалы</string>
+    <string name="dialog_guest_name">Имя для брони</string>
+    <string name="dialog_guest_hint">Например, Айгуль</string>
+    <string name="dialog_select_time">Время начала</string>
+    <string name="dialog_select_duration">Длительность</string>
+    <string name="dialog_local_demo_hint">Бронь сохраняется локально на устройстве и участвует в расчёте свободных интервалов.</string>
+    <string name="dialog_book_button">Забронировать</string>
+    <string name="dialog_close_button">Отмена</string>
+    <string name="toast_pick_name">Введите имя гостя.</string>
+    <string name="toast_no_time_options">Нет доступных вариантов для бронирования.</string>
+    <string name="toast_booking_saved">Бронь оформлена: %1$s, %2$s, %3$s.</string>
+    <string name="toast_table_busy">Этот столик полностью занят на выбранную дату.</string>
+    <string name="dialog_capacity_template">Вместимость: %1$s</string>
+    <string name="dialog_date_template">Дата: %1$s</string>
+    <string name="dialog_title_template">%1$s • бронь</string>
+    <string name="slot_line_template">%1$s — свободно</string>
+    <string name="slot_separator">\n</string>
+    <string name="fully_booked">Свободных интервалов нет</string>
+    <string name="restaurant_and_table">Ресторан %s, столик %s</string>
+    <string name="tab_restaurants">Рестораны</string>
+    <string name="tab_my_bookings">Мои брони</string>
+    <string name="my_bookings_title">Мои брони</string>
+    <string name="enter_name_hint">Введите ваше имя</string>
+    <string name="search">Поиск</string>
+    <string name="no_bookings_found">Брони не найдены</string>
+    <string name="cancel">Отмена</string>
+    <string name="booking_cancelled">Бронь отменена</string>
+    <string name="booking_table">Столик: %s</string>
+    <string name="booking_date">Дата: %s</string>
+    <string name="booking_time">Время: %s</string>
+    <string name="booking_duration">Длительность: %d мин</string>
+    <string name="booking_phone">Телефон: %s</string>
+</resources>
